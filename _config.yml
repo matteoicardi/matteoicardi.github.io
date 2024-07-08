@@ -1,0 +1,33 @@
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+theme: jekyll-theme-minimal
+# Architect
+# Cayman
+# Dinky
+# Hacker
+# Leap day
+# Merlot
+# Midnight
+# Minima
+# Minimal
+# Modernist
+# Slate
+# Tactile
+# Time machine
+
+
+
+include:
+  - index.md
+
+
+
+navigation:
+  - title: Home
+    url: /
+  # Add more links as needed
