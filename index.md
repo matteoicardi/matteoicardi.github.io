@@ -26,8 +26,18 @@ I am a mathematician and engineer working at the intersection of computational f
 
 ---
 
-### Background & Expertise
+### Background
 My academic journey has spanned across Europe and the US, blending engineering rigor with mathematical abstraction. Before joining the University of Nottingham in 2017, I was the **Warwick Zeeman Lecturer** at the University of Warwick. I also held postdoctoral fellowships at **UT Austin (ICES)**, **KAUST**, and **Politecnico di Torino**, where I completed my PhD in Chemical Engineering and degrees in Mathematical Engineering.
+
+### Research Expertise
+My work involves developing advanced mathematical and computational tools to bridge the gap between microscopic physics and macroscopic engineering performance:
+
+*   **Multiscale Modeling & Coarse-Graining:** Deriving macroscopic equations for complex systems.
+*   **Porous Media Dynamics:** Subsurface flow, Carbon Capture and Storage (CCS), and contaminant transport.
+*   **Uncertainty Quantification (UQ):** Deploying Multilevel Monte Carlo (MLMC) for robust engineering predictions.
+*   **Scientific Machine Learning (SciML):** Using Physics-Informed Neural Networks (PINNs) for inverse transport problems.
+
+---
 
 ### MultiForm Research Group
 I direct the **MultiForm (Multiscale Fluid Dynamics and Porous Media)** research group at Nottingham. We are dedicated to the digitalization of the energy transition, focusing on heterogeneous media and computational engineering.
