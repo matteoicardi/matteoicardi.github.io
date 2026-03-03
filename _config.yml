@@ -1,3 +1,7 @@
+title: Dr. Matteo Icardi
+description: Associate Professor in Applied Mathematics, University of Nottingham
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-relative-links
 
@@ -5,29 +9,30 @@ relative_links:
   enabled: true
   collections: true
 
-theme: jekyll-theme-hacker
-# Architect
-# Cayman
-# Dinky
-# Hacker
-# Leap day
-# Merlot
-# Midnight
-# Minima
-# Minimal
-# Modernist
-# Slate
-# Tactile
-# Time machine
-
-
-
-include:
-  - index.md
-
-
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
 
 navigation:
   - title: Home
-    url: /
-  # Add more links as needed
+    url: /index.html
+  - title: Coding
+    url: /coding.html
+  - title: Maths
+    url: /maths.html
+  - title: Industrial Applications
+    url: /industrial_applications.html
+  - title: Research
+    url: /research.html
+  - title: Grants
+    url: /grants.html
+  - title: CFD/OpenFOAM
+    url: /cfd_openfoam.html
+
+# Exclude unnecessary files from the build
+exclude:
+  - some_content.txt
+  - .DS_Store

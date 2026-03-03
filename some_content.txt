@@ -1,0 +1,166 @@
+Comprehensive Academic Profile: Professor Matteo Icardi
+
+1. Professional Identity and Digital Strategic Positioning
+
+Professor Matteo Icardi is a pioneer in the digitalization of the energy transition, operating at the critical intersection of mathematical engineering, computational fluid dynamics (CFD), and multiscale modeling. As an Associate Professor at the University of Nottingham and a core member of the GeoEnergy Research Centre (GERC), he directs a research portfolio dedicated to resolving the complex interplay between microscopic physics and macroscopic system performance. His work is instrumental in overcoming the inherent computational bottlenecks of classical engineering simulations through the strategic deployment of uncertainty quantification (UQ), model reduction, and Scientific Machine Learning (SciML).
+
+Quick Links
+
+* University of Nottingham Official Profile
+* Google Scholar: 85+ Peer-Reviewed Contributions
+* ORCID (0000-0003-3924-3117)
+* ResearchGate Professional Identity
+* GitHub: MultiForm-UoN (40+ Open-Source Repositories)
+
+By synthesizing rigorous theoretical abstraction with high-stakes industrial utility, Professor Icardi bridges the gap between fundamental mathematical proofs and the operational needs of the energy and healthcare sectors. This multidisciplinary identity is built upon an international trajectory that fused continental engineering rigor with global high-performance computing (HPC) infrastructure.
+
+
+--------------------------------------------------------------------------------
+
+
+2. Biographical Narrative and Academic Foundations
+
+The strategic value of an international academic trajectory lies in the cross-pollination of methodological traditions. Professor Icardi’s career is a testament to this, blending Italian mathematical rigor with American stochastic numerics and the advanced HPC capabilities of the Middle East.
+
+* The Foundational Era (Politecnico di Torino): Rooted in the Italian tradition of mathematical engineering, Icardi’s early career focused on multiphase systems. His doctoral research provided critical advancements in tracking particle size distributions in turbulent flows, integrating Large Eddy Simulation (LES) with the Quadrature Method of Moments (QMOM).
+* Global Specialization (UT Austin and KAUST): His tenure at the Institute for Computational Engineering and Sciences (ICES) and the STOCHNUM group at KAUST allowed him to synthesize complex fluid dynamics with advanced Uncertainty Quantification. This phase was pivotal in mastering Multilevel Monte Carlo (MLMC) methods, enabling the calibration of models against sparse, noisy experimental data.
+* UK Leadership (Warwick and Nottingham): After serving as the Zeeman Lecturer at Warwick, he joined the University of Nottingham in 2017. He has since established the MultiForm group as a hub for multiscale research, ascending to Associate Professor in 2022 and assuming steering roles within the GeoEnergy Research Centre.
+
+Academic Milestones
+
+Degree/Position	Institution	Key Focus	Year
+B.Sc. Mathematics for Engineering	Politecnico di Torino	Electrical Tomography	2006
+M.Sc. Mathematical Engineering	Politecnico di Torino	Adaptive Mesh Refinement (Multiphase)	2008
+PhD Chemical Engineering	Politecnico di Torino	Supervised by Prof. Marchisio: LES and QMOM	2012
+Postdoctoral Fellow	ICES, UT Austin	UQ and Two-Phase Porous Media Transport	2013–2015
+Postdoctoral Fellow	STOCHNUM, KAUST	Stochastic Numerics and HPC Infrastructure	2013–2015
+Zeeman Lecturer	University of Warwick	Applied Mathematics and Independent Research	2015–2017
+Associate Professor	University of Nottingham	MultiForm Group Leadership and GERC	2022–Pres.
+
+
+--------------------------------------------------------------------------------
+
+
+3. Core Research Pillars and Methodological Frameworks
+
+In the context of the global energy transition and the emergence of Digital Twins, multiscale simulation is the primary vehicle for scientific discovery. Professor Icardi’s research operationalizes this through four strategic "Deep Dives":
+
+1. Multiscale Modeling & Coarse-Graining: This pillar focuses on deriving macroscopic equations from microscopic phenomena. By analyzing "memory terms" in coarse-grained models (e.g., the Markovian approximation), Professor Icardi enables field-scale predictions that would otherwise require centuries of computation to resolve at the pore scale.
+2. Porous Media & Subsurface Dynamics: His work applies upscaling methods to fractured reservoirs and unconventional risks, directly impacting Carbon Capture and Storage (CCS) and Contaminant Hydrology. This pillar was the cornerstone of the EU H2020 SECURe project, addressing how pollutants migrate through heterogeneous geological formations.
+3. Uncertainty Quantification (UQ) & Stochastic Numerics: Professor Icardi utilizes Multilevel Monte Carlo (MLMC) to optimize computational budgets. By combining massive cohorts of low-resolution simulations with targeted high-resolution samples, he quantifies uncertainty in parameters like permeability: E[Q_L] = E[Q_0] + \sum_{l=1}^L E[Q_l - Q_{l-1}]
+4. Scientific Machine Learning (SciML): Representing a cutting-edge shift in the field, his recent work—highlighted in his 2025 publication in Computer Methods in Applied Mechanics and Engineering—uses Physics-Informed Neural Networks (PINNs) to solve inverse transport problems. By embedding PDEs into the loss function, he reconstructs flow fields from sparse data: Loss = Loss_{data} + \lambda Loss_{PDE}
+
+Methodological Versatility: Beyond energy, Icardi’s mathematical polymathy is evident in his application of Biot’s consolidation theory to brain tissue deformation for neurosurgery and the modeling of thermal ablation for tumor treatment, where he accounts for vapor-mediated heat transport.
+
+
+--------------------------------------------------------------------------------
+
+
+4. The MultiForm Research Group: Structure and Leadership
+
+The MultiForm (Multiscale Fluid Dynamics and Porous Media) group serves as an interdisciplinary engine within the School of Mathematical Sciences. It connects rigorous theory to Faculty of Engineering applications and coordinates the "Heterogeneous Media Research Theme" at Nottingham.
+
+Research Supervision and Key Projects
+
+* Robert Barnett (PhD, 2019–2023): Developed open-source simulation frameworks for pore-scale solid-liquid systems and electrokinetic flows.
+* Eugenio Pescimoro (PhD, 2019–2022): Focused on non-Fickian transport and emergence of anomalous dispersion in geological media.
+* Salihu Yakubu (PhD, 2022–2025): Investigating thin film and vertically integrated flow models.
+* Tobias Long (PhD, 2021–2023): Advancing the Cumulative Radon Transform for CFD model reduction.
+* Abhilash Sreekumar (PhD, 2018–2021): Researching vibro-acoustic properties of porous materials.
+
+
+--------------------------------------------------------------------------------
+
+
+5. Software Ecosystem and Open-Source Contributions
+
+Professor Icardi views open-source software as the primary mechanism for democratizing advanced mathematical models. His GitHub presence (MultiForm-UoN) hosts over 40 repositories built largely on the OpenFOAM C++ library.
+
+Software Catalog
+
+Repository	Functional Impact	Strategic Context
+mrmtFOAM	Simulates mobile-immobile transport.	Multi-Rate Mass Transfer models.
+SECUReFOAM	Reservoir simulation for complex flows.	EU H2020 SECURe Project (Fractured Reservoirs).
+OpenQBMM	Solvers for population balance equations.	Used in crystallization, combustion, and multiphase flows.
+foodFreezeFoam	Coupled solid-fluid simulation of freezing.	Interdisciplinary reach into industrial food processing.
+spnpFoam	Multi-region solver for electrokinetics.	Applied to Nernst-Planck electrochemical systems.
+MPeat	Ecohydrological development model.	Predicts long-term peatland mechanical evolution.
+
+
+--------------------------------------------------------------------------------
+
+
+6. Grant Portfolio and Industrial Impact
+
+Professor Icardi manages a diverse portfolio of funding that balances industrial problem-solving with fundamental research sustainability.
+
+* EU Horizon 2020 Projects:
+  * SECURe (£638,000): Work Package (WP) Lead. Developed data assimilation for fractured reservoirs in carbon capture contexts.
+  * N2N (€546,000): Co-I. Focused on poro-mechanics in advanced lightweight composite structures.
+  * SilentProp: Co-I. Model reduction for noise generation in electric aircraft.
+* Royal Academy of Engineering & Global Initiatives:
+  * Industrial CCS in Colombia (£80,000): PI. Assessing medium-scale capture solutions for the Colombian industrial sector.
+  * Nanofluid Transport (£49,000): PI. Modeling nanoparticle retention within Colombian heavy oil fields.
+  * Asphaltene Dynamics (£50,000): PI. Investigating viscous organic compound dynamics in subsurface production.
+* UKRI/EPSRC Collaborations:
+  * Molecular Communication (£153k): Industrial CASE studentship with TOTAL for nanosensing in geological applications.
+  * DIADEM: Collaborator on a multi-institution initiative supporting manufacturing for fusion energy.
+
+
+--------------------------------------------------------------------------------
+
+
+7. Scholarly Contributions and Publication Strategy
+
+Guided by a "quality over quantity" philosophy, Professor Icardi publishes in the field's most prestigious venues. His work is organized into landmark thematic clusters.
+
+* Porous Media and Dispersion:
+  * Mechanisms of Dispersion in a Porous Medium (Journal of Fluid Mechanics, 2018): A rigorous mathematical derivation of non-Fickian dispersion.
+  * Pore-scale simulation of fluid flow and solute dispersion in three-dimensional porous media (Physical Review E, 2014).
+* Multiscale Theory and Memory:
+  * From microstructure to memory: Basset-type fractional transport models in porous media (Proceedings of the Royal Society A, 2025): Groundbreaking work linking microscopic details to persistent memory effects.
+* SciML and Machine Learning:
+  * Inverse Physics-Informed Neural Networks for transport models in porous materials (Computer Methods in Applied Mechanics and Engineering, 2025): Positioning SciML as a transformative tool for inverse problems.
+
+For a full list of 85+ publications, please see Professor Icardi's Google Scholar profile.
+
+
+--------------------------------------------------------------------------------
+
+
+8. Professional Leadership, Awards, and Service
+
+Professor Icardi provides global scientific steering, directing the research agenda for international communities at the intersection of biology, physics, and communication.
+
+* Global Scientific Steering: Serving as Chair for the IEEE Communication Society Technical Committee on Molecular, Biological, and Multi-Scale Communications (2024–2025).
+* Awards: Recipient of the IEEE Best Paper Award at ICC 2016 for pioneering contributions to molecular information delivery.
+* Editorial Service: Guest Editor for the Journal of Contaminant Hydrology and reviewer for Acta Mechanica and AIChE Journal.
+
+
+--------------------------------------------------------------------------------
+
+
+9. Teaching Philosophy and Pedagogical Impact
+
+Research-led teaching is central to Professor Icardi’s mission, training the next generation of mathematical engineers to handle 21st-century energy and health challenges.
+
+* Curriculum Leadership: Core lecturer for Calculus (MTHS1001) and Applied Mathematics (MATH1016), instructing cohorts of 200+ students.
+* Professional Mentoring: Serves as the SIAM-IMA Student Chapter Advisor, bridging the gap between classroom theory and industrial mathematics.
+
+
+--------------------------------------------------------------------------------
+
+
+10. Future Directions and Contact Information
+
+Professor Icardi’s future outlook is focused on the deep integration of Scientific ML with the next generation of energy challenges. His work on battery degradation and manufacturing for fusion energy (via the DIADEM initiative) represents a strategic shift toward sustainable electrification and decarbonization.
+
+Get in Touch
+
+Professor Icardi welcomes inquiries from prospective PhD candidates, industrial partners, and software collaborators.
+
+Email: matteo.icardi@nottingham.ac.uk
+Address:
+School of Mathematical Sciences
+University of Nottingham
+University Park, Nottingham, NG7 2RD, UK
