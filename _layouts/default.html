@@ -4,14 +4,21 @@
     <meta charset="UTF-8">
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#1f3a5f">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
   </head>
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title }}</h1>
+      {% if site.tagline %}
+      <p class="project-tagline">{% for line in site.tagline %}<span class="tagline-line">{{ line }}</span>{% endfor %}</p>
+      {% else %}
       <h2 class="project-tagline">{{ site.description }}</h2>
+      {% endif %}
       
       {% if site.navigation %}
       <nav class="site-nav" aria-label="Primary">
@@ -30,7 +37,7 @@
       {{ content }}
       
       <footer class="site-footer">
-        <p>&copy; {{ "now" | date: "%Y" }} Dr. Matteo Icardi. Built with Jekyll and Cayman theme.</p>
+        <p>&copy; {{ "now" | date: "%Y" }} Matteo Icardi · University of Nottingham</p>
       </footer>
     </main>
   </body>

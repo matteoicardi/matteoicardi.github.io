@@ -14,6 +14,7 @@ I combine mathematical modelling, analysis and open-source computation to unders
 - **Data-driven and physics-informed models:** stability of combining data and PDEs, inverse problems, uncertainty quantification.
 - **Transport in porous media:** dispersion, mixing, reactions, deposition and clogging.
 - **Electrochemistry and batteries:** ion transport in porous electrodes and reduced models.
+- **Medical applications:** modelling of thermal ablation therapy, with [NE Scientific](http://www.ne-scientific.com/) (Boston, USA).
 - **Particulate and food systems:** population balances, crystallisation, freezing, and the oral processing of chocolate.
 
 ### Recent publications

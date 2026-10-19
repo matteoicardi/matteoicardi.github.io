@@ -64,4 +64,6 @@ Our work is supported by national and international funding bodies, balancing fu
 
 ### Industrial partners
 
-Much of our work starts from an industrial question. Past and current partners include TOTAL, DOW, Mondelez, Cranswick, ASCOMP, NE Scientific, Ecopetrol and Equion, with applications in subsurface energy and carbon storage, food processing, chemical engineering, batteries and environmental systems. If you have a problem involving flow, transport or porous materials, I am always happy to talk.
+Much of our work starts from an industrial question. Past and current partners include TOTAL, DOW, Mondelez, Cranswick, ASCOMP, Ecopetrol and Equion, with applications in subsurface energy and carbon storage, food processing, chemical engineering, batteries and environmental systems.
+
+In medical applications, I collaborate with **[NE Scientific](http://www.ne-scientific.com/)** (Boston, USA) on modelling and simulation of thermal ablation therapy, the minimally invasive treatment of tumours by heating. If you have a problem involving flow, transport or porous materials, I am always happy to talk.

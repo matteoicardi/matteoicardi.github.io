@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-# Dr Matteo Icardi
-
-**Associate Professor in Applied Mathematics**  
-*School of Mathematical Sciences, University of Nottingham*
-
 I am an applied mathematician working on flow and transport in complex materials: soils, rocks, filters, batteries, and peatlands. I build mathematical models across scales, analyse them, and turn them into open-source simulation tools, mostly in OpenFOAM. I lead the **MultiForm** group (Multiscale Fluid Dynamics and Porous Media) and coordinate the **[MATHPEAT network](https://multiform-uon.github.io/mathpeat/)** on the mathematics of peatlands and soft porous materials.
 
 <div class="academic-links">

@@ -1,5 +1,8 @@
 title: Dr. Matteo Icardi
 description: Associate Professor in Applied Mathematics, University of Nottingham. Multiscale modelling, porous media, peatlands and scientific computing.
+tagline:
+  - Associate Professor in Applied Mathematics, University of Nottingham
+  - Multiscale modelling · porous media · peatlands · scientific computing
 theme: jekyll-theme-cayman
 
 plugins:
