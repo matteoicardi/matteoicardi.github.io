@@ -1,9 +1,10 @@
 title: Dr. Matteo Icardi
-description: Associate Professor in Applied Mathematics, University of Nottingham
+description: Associate Professor in Applied Mathematics, University of Nottingham. Multiscale modelling, porous media, peatlands and scientific computing.
 theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-relative-links
+  - jekyll-redirect-from
 
 relative_links:
   enabled: true
@@ -19,18 +20,18 @@ defaults:
 navigation:
   - title: Home
     url: /index.html
-  - title: Coding
-    url: /coding.html
-  - title: Maths
-    url: /maths.html
-  - title: Industrial Applications
-    url: /industrial_applications.html
   - title: Research
     url: /research.html
-  - title: Grants
+  - title: Peatlands
+    url: /peat.html
+  - title: Software
+    url: /coding.html
+  - title: PhD opportunities
+    url: /phd.html
+  - title: Funding & Partners
     url: /grants.html
-  - title: CFD/OpenFOAM
-    url: /cfd_openfoam.html
+  - title: Teaching
+    url: /teaching.html
 
 # Exclude unnecessary files from the build
 exclude:

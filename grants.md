@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Grants
+title: Funding & Partners
+redirect_from:
+  - /industrial_applications.html
 ---
 
-# Research Funding & Projects
+# Funding and partners
 
 Our work is supported by national and international funding bodies, balancing fundamental research with industrial application.
 
@@ -60,13 +62,6 @@ Our work is supported by national and international funding bodies, balancing fu
 
 ---
 
-### Industrial Partners
-We collaborate with the following organizations to apply our mathematical research to operational challenges:
-- **TOTAL**
-- **DOW**
-- **Mondelez**
-- **Cranswick**
-- **ASCOMP**
-- **NE Scientific**
-- **Ecopetrol**
-- **Equion**
+### Industrial partners
+
+Much of our work starts from an industrial question. Past and current partners include TOTAL, DOW, Mondelez, Cranswick, ASCOMP, NE Scientific, Ecopetrol and Equion, with applications in subsurface energy and carbon storage, food processing, chemical engineering, batteries and environmental systems. If you have a problem involving flow, transport or porous materials, I am always happy to talk.

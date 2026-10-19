@@ -1,25 +1,27 @@
 ---
 layout: default
-title: Coding
+title: Software
+redirect_from:
+  - /cfd_openfoam.html
 ---
 
-# Coding & Software
+# Software
 
-Our research group, **MultiForm**, is committed to open-source development for multiscale modeling and computational fluid dynamics (CFD). Most of our tools are built using the **OpenFOAM** C++ library.
+Most of our code is open source and built on **[OpenFOAM](https://openfoam.org)**, the C++ finite-volume library, with smaller tools in Python, MATLAB and Julia. Everything lives on the **[MultiForm GitHub](https://github.com/MultiForm-UoN)**.
 
-### Core Software Repositories
+### Selected open-source tools
 
-- **[MultiForm-UoN (GitHub Hub)](https://github.com/MultiForm-UoN):** Our primary research software hub hosting over 40 repositories.
-- **[OpenQBMM](http://www.openqbmm.org/):** Solvers for population balance equations (PBEs) in multiphase flows (crystallization, combustion, etc.).
-- **mrmtFOAM:** Simulates mobile-immobile transport through Multi-Rate Mass Transfer models.
-- **SECUReFOAM:** Advanced reservoir simulation for complex/fractured geological media (developed for EU H2020 SECURe).
-- **foodFreezeFoam:** Coupled solid-fluid simulation for industrial food processing applications.
-- **spnpFoam:** Multi-region solver for electrokinetics (Nernst-Planck systems).
-- **MPeat:** Ecohydrological models predicting long-term peatland evolution and mechanics.
-- **PINNs & SciML:** Implementation of Physics-Informed Neural Networks for inverse transport problems in porous materials.
-- **Splitting Schemes:** High-order numerical schemes for multiscale and multiphysics simulations.
-- **Battery Modeling:** Custom solvers for multiscale battery degradation and performance simulations.
+- **[MPeat](https://github.com/MultiForm-UoN/MPeat):** long-term peatland development with mechanics, ecology and hydrology.
+- **[spnpFoam](https://github.com/MultiForm-UoN/spnpFoam):** multi-region Stokes–Nernst–Planck–Poisson solver for electrokinetics.
+- **[mrmtFOAM](https://github.com/MultiForm-UoN/mrmtFOAM):** multi-rate mass transfer for mobile–immobile transport in porous media.
+- **[porousTransportUpscalingFoam](https://github.com/MultiForm-UoN/porousTransportUpscalingFoam):** formal upscaling of transport with surface reactions.
+- **[scalarAPRFoam](https://github.com/MultiForm-UoN/scalarAPRFoam):** reactive transport in packed beds (aqueous phase reforming).
+- **[SECUReFOAM](https://github.com/MultiForm-UoN/SECUReFOAM):** reservoir simulation and multiscale analysis for fractured media.
+- **[foodFreezeFoam](https://github.com/MultiForm-UoN/foodFreezeFoam):** coupled solid–fluid simulation of food freezing.
+- **[porescalemc](https://github.com/MultiForm-UoN/porescalemc):** multilevel Monte Carlo for random pore-scale geometries.
+- **[OpenQBMM](https://www.openqbmm.org/):** quadrature-based moment methods for population balance equations (contributor).
+- **[Basic OpenFOAM programming tutorials](https://github.com/MultiForm-UoN/BasicOpenFOAMProgrammingTutorials):** a gentle introduction to C++ in OpenFOAM.
 
----
-### Open-Source Philosophy
-We believe in democratizing advanced mathematical models through open-source access. These tools are designed for both academic exploration and industrial-scale simulation.
+### In development
+
+New solvers for homogenisation of porous materials, clogging and deposition, electrokinetic transport, and data-driven reconstruction of flows from sparse sensors. Get in touch if you would like early access.
