@@ -22,7 +22,7 @@ Peatlands cover a few percent of the land surface but store a large share of the
 
 ### MATHPEAT network
 
-I coordinate, with David Large, the **[MATHPEAT network](https://multiform-uon.github.io/mathpeat/)**, supported by the Isaac Newton Institute and EPSRC, bringing together mathematicians, peatland scientists and engineers.
+I coordinate, with David Large, the **[MATHPEAT network](https://mathpeatnet.work/)**, supported by the Isaac Newton Institute and EPSRC, bringing together mathematicians, peatland scientists and engineers.
 
 ### PhD projects
 
